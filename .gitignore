@@ -1,0 +1,4 @@
+scanner_resultados.db
+__pycache__/
+*.pyc
+.env
