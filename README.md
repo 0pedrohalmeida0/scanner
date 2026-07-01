@@ -26,7 +26,7 @@ This project is a high-performance network scanner developed in Python. The core
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/0pedrohalmeida0/scanner.git](https://github.com/0pedrohalmeida0/scanner.git)
+   git clone (https://github.com/0pedrohalmeida0/scanner.git)
 
 ## Aviso de Segurança / Security Notice
 
