@@ -35,3 +35,9 @@ Este projeto foi desenvolvido estritamente para fins educacionais e de auditoria
 
 [EN-US]
 This project was developed strictly for educational and security auditing purposes within controlled environments. Using this software on third-party systems without prior and express authorization is illegal and unethical. The author assumes no responsibility for any misuse.
+
+## Usage
+
+```bash
+python3 main.py
+```

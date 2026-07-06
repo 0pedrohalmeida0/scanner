@@ -21,7 +21,7 @@ def tentar_capturar_banner(investigador):
     try:
         investigador.send(b"HEAD / HTTP/1.1\r\n\r\n")
         return investigador.recv(1024).decode().split('\r\n')[0]
-    except:
+    except OSError:
         return "Desconhecido"
 
 def trabalhador():
